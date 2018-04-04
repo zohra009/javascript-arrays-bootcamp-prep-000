@@ -30,8 +30,8 @@ function destructivelyRemoveElementFromEndOfArray(array) {
 function removeElementFromEndOfArray(array) {
   array.slice(0, array.length - 1)
 }
-function accessElementFromArray(statesArr){
-  return statesArr[2];
+function accessElementFromArray(array){
+  return array[2];
 }
 
 
