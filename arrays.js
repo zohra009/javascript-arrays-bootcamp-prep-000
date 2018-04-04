@@ -31,7 +31,7 @@ function removeElementFromEndOfArray(array) {
   array.slice(0, array.length - 1)
 }
 function accessElementFromArray(array, index){
-  return array[1];
+  return array[index]
 }
 
 
