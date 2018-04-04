@@ -31,7 +31,7 @@ function removeElementFromEndOfArray(array) {
   array.slice(0, array.length - 1)
 }
 function addElementToEndOfArray(array, element) {
-  array.slice(+ 1)
+  array.push()
 }
 
 
